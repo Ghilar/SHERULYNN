@@ -1,4 +1,3 @@
 ## DEPLOY
+https://heroku.com/deploy?template=https://github.com/Ghilar/SHERULYNN
 
-
-https://github.com/Ghilar/SHERULYNN/edit/master/README.md
