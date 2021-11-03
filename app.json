@@ -1,0 +1,7 @@
+{
+  "name": "ChikaBotWea",
+  "description": "ChikaBotWea build with nodejs",
+  "repository": "https://github.com/Ghilar/SHERULYNN",
+  "logo": "https://telegra.ph/file/ea0bc9d2adbab3280d11c.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
+}
